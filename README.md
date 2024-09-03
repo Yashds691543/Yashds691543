@@ -27,8 +27,6 @@ Here are some of the key projects I've worked on:
 - **Portfolio**: [yashwantejdsportfolio.com](https://yashwantejdsportfolio.com/)
 - **Email**: yashwantejds@gmail.com
 
-<h1 align="center">Hi 👋, I'm Yashwantej Dyavari Shetty</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a versatile data analyst and web developer with a strong background in data science and web technologies. Certified in Google Data Analytics Professional, I excel at transforming complex datasets into actionable insights and developing intuitive web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashds691543&label=Profile%20views&color=0e75b6&style=flat" alt="yashds691543" /> </p>
 
@@ -36,13 +34,7 @@ Here are some of the key projects I've worked on:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://yashwantejdsportfolio.com/](https://yashwantejdsportfolio.com/)
-
-- 💬 Ask me about **SQL, SAS Programming, R programming, Visualizations using PowerBI and tableau**
-
-- 📫 How to reach me **Yashwantejds@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UcSW6L78Fg9epkwg7zP7fWimqw_6Z7BP/view?usp=sharing](https://drive.google.com/file/d/1UcSW6L78Fg9epkwg7zP7fWimqw_6Z7BP/view?usp=sharing)
 
