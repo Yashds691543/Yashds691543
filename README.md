@@ -14,10 +14,7 @@ Welcome to my GitHub profile! I'm a versatile data analyst and web developer wit
 - **Data Tools**: Tableau, Power BI, MS Excel, Google BigQuery
 - **Technologies**: R Studio, MySQL, Oracle, Git, SAS
 
-## 📫 Let's Connect!
-- **LinkedIn**: [Yashwantej Dyavari Shetty](https://www.linkedin.com/in/your-linkedin-profile)
-- **Portfolio**: [yashwantejdsportfolio.com](https://yashwantejdsportfolio.com/)
-- **Email**: yashwantejds@gmail.com
+
 - **Eventually all things fall into place. Until then, Laugh at the Confusion, Live for Moments and know EVERYTHING HAPPENS FOR A REASON**
 
 <h3 align="left">Languages and Tools:</h3>
